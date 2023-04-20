@@ -1,0 +1,17 @@
+[
+    {
+        "categoryId": 1,
+        "header": "flight",
+        "icon": "far-fly"
+    },
+    {
+        "categoryId": 2,
+        "header": "trip",
+        "icon": "far-trip"
+    },
+    {
+        "categoryId": 3,
+        "header": "trip",
+        "icon": "far-trip"
+    }
+]
